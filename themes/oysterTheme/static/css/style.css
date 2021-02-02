@@ -23,6 +23,10 @@ h1.title {
   text-shadow: 1px 1px 2px rgb(204, 70, 92);
 }
 
+h2 {
+  font-size: large;
+}
+
 header {
   padding-top: 15px;
   padding-left: 20px;

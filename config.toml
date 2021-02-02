@@ -1,6 +1,7 @@
 baseURL = "http://heidiwilliamsfoy.space/"
 languageCode = "en-us"
 title = "Heidi Williams-Foy"
+subtitle = "I am a web developer and general creative person based in Brooklyn, NY. I also like to read and eat Asian food."
 theme = "oysterTheme"
 paginate = 5
 
