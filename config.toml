@@ -34,3 +34,9 @@ googleAnalytics = "UA-144509840-1"
     url = "https://www.linkedin.com/in/heidiwilliamsfoy/"
     weight = 5
 
+  [params.profile]
+     enable = true
+     name = "Heidi Williams-Foy"
+     tagline = "Senior Technical Account Manager"
+     avatar = "avatar.png"
+
