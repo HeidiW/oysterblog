@@ -30,10 +30,6 @@
                 {{ partial "projects" . }}
             {{ end }}
         
-            {{ if .Site.Params.display.papers }}
-                {{ partial "papers" . }}
-            {{ end }}
-
             </div>
 
             <div class="rightSide">
@@ -43,10 +39,6 @@
 
             {{ if .Site.Params.display.languages }}
                 {{ partial "languages" . }}
-            {{ end }}
-
-            {{ if .Site.Params.display.awards }}
-                {{ partial "awards" . }}
             {{ end }}
 
             {{ if .Site.Params.display.skills }}

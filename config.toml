@@ -23,11 +23,11 @@ googleAnalytics = "UA-144509840-1"
     pre = "tag"
     url = "/tags/"
     weight = 3
-  [[menu.main]]
-    name = "Resume"
-    pre = "resume"
-    url = "/resume/"
-    weight = 4
+  # [[menu.main]]
+    # name = "Resume"
+    # pre = "resume"
+    # url = "/resume/"
+    # weight = 4
   [[menu.main]]
     name = "LinkedIn"
     pre = "LinkedIn"
