@@ -10,7 +10,7 @@ tags = []
 features = []
 min_version = "0.41.0"
 sectionPagesMenu = "main"
-summaryLength = 30
+
 
 [author]
   name = ""
