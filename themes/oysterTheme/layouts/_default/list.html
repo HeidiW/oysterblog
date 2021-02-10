@@ -5,7 +5,7 @@
     <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
     {{ partial "metadata.html" . }}
     <a class="summary" href="{{ .RelPermalink }}">
-        <p>{{ .Summary | truncate 40 }}</p>
+        <p>{{ .Summary | truncate 50 }}</p>
     </a>
 </p>
 {{ end }}

@@ -6,6 +6,10 @@ theme = "oysterTheme"
 paginate = 5
 paginatePath = "/"
 summaryLength = 30
+defaultContentLanguage = "en"
+canonifyUrls = true
+
+math = true
 
 [params]
   images = ["hwf.png"]
