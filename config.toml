@@ -4,7 +4,6 @@ title = "Heidi Williams-Foy"
 subtitle = "I am a web developer and general creative person based in Brooklyn, NY. I also like to read and eat Asian food."
 theme = "oysterTheme"
 paginate = 5
-paginatePath = "/"
 summaryLength = 30
 defaultContentLanguage = "en"
 canonifyUrls = true
