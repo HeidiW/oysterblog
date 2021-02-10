@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>post on Heidi Williams-Foy</title>
-    <link>http://heidiwilliamsfoy.space/tags/post/</link>
+    <link>https://heidiwilliamsfoy.space/tags/post/</link>
     <description>Recent content in post on Heidi Williams-Foy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2020 22:40:41 -0500</lastBuildDate><atom:link href="http://heidiwilliamsfoy.space/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 22:40:41 -0500</lastBuildDate><atom:link href="https://heidiwilliamsfoy.space/tags/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Hugo Theme</title>
-      <link>http://heidiwilliamsfoy.space/posts/my-first-post/</link>
+      <link>https://heidiwilliamsfoy.space/posts/my-first-post/</link>
       <pubDate>Wed, 30 Dec 2020 22:40:41 -0500</pubDate>
       
-      <guid>http://heidiwilliamsfoy.space/posts/my-first-post/</guid>
+      <guid>https://heidiwilliamsfoy.space/posts/my-first-post/</guid>
       <description>I have named it Oyster Theme. Only because I really love oysters and it is a cool word.</description>
     </item>
     
