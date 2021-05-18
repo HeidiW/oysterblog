@@ -3,6 +3,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="{{relURL "/css/bootstrap.min.css"}}">
     <link rel="stylesheet" type="text/css" href="{{relURL "/css/style.css"}}">
+    <!-- Reddit Pixel -->
+<script>
+    !function(w,d){if(!w.rdt)
+     {var p=w.rdt=function()
+        {p.sendEvent?p.sendEvent.apply(p,arguments):p.callQueue.push(arguments)};p.callQueue=[];var t=d.createElement("script");t.src="https://www.redditstatic.com/ads/pixel.js",t.async=!0;var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(t,s)}}(window,document);rdt('init','t2_asxt0r74');rdt('track', 'PageVisit');
+    </script>
+    <!-- DO NOT MODIFY -->
+    <!-- End Reddit Pixel -->
     {{ $title := print .Site.Title " | " .Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>
