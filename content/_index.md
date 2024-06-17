@@ -1,7 +1,7 @@
 ---
 title: "Heidi Williams-Foy"
 author: "Heidi Williams-Foy"
-description: "I am a web developer and general creative person based in Brooklyn, NY."
-subtitle: "This site is built by me using Hugo, CSS, HTML, and Netlify"
+description: "Transforming Data into Results for Small Businesses on Meta, TikTok, and Reddit"
+subtitle: "Boost Your Advertising ROI with Expert Pixel and Conversion API Integration"
 sectionPagesMenu: "main"
 ---
