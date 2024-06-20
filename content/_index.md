@@ -1,7 +1,7 @@
 ---
 title: "Heidi Williams-Foy"
 author: "Heidi Williams-Foy"
-description: "Transforming Data into Results for Small Businesses on Meta, TikTok, and Reddit"
-subtitle: "Boost Your Advertising ROI with Expert Pixel and Conversion API Integration"
+description: "I am a web developer based in Greenpoint, Brooklyn."
+subtitle: "This site is currently under construction. Want to work with me on your pixel or Conversions API implementations? Send me a note via LinkedIn"
 sectionPagesMenu: "main"
 ---
